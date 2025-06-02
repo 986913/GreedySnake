@@ -1,2 +1,3 @@
 # GreedySnake
-A small game for fun
+
+A tiny game for fun, if you wanna runs locall, please `npm install`
