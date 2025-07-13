@@ -4,4 +4,4 @@ This is a small game project built with TypeScript using object-oriented program
 
 To run the project locally, please execute: `npm install`
 
-![hippo](https://s2.ezgif.com/tmp/ezgif-2290beaab120bd.gif)
+![til](./gif/snake.gif)
