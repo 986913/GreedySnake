@@ -4,4 +4,4 @@ This is a small game project built with TypeScript using object-oriented program
 
 To run the project locally, please execute: `npm install`
 
-![til](./gif/snake.gif)
+![snakegif](./src/gif/snake.gif)
